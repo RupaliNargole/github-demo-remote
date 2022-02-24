@@ -1,17 +1,12 @@
 #add
 def add(x,y):
-  return x + y
+  pass
 #sub
 def sub(x,y):
-  return(x-y)
+  pass
 #mul
 def multiply(x,y):
-  return(x*y)     #on bug456
+  pass
 #divide
 def divide(x,y):
-
-  if y ==0
-   else x/y    master bug 789
-#square
-def square()
-return (x*x)
+pass
